@@ -60,7 +60,7 @@ Route::middleware(['checkIp'])->group(function(){
 });
 
 //Route::get('reset','UsersController@reset');
-Route::middleware(['checkIp','auth','throttle:3|rate_limit,1'])->group(function(){
+Route::middleware(['checkIp','throttle:3|rate_limit,1'])->group(function(){
     Route::get('reset',function(){
         return 'reset';
     });
