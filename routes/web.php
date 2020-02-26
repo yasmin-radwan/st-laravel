@@ -12,9 +12,21 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
 
+Route::get('products', function () {
+    return view('products');
+});
+
+Route::get('about', function () {
+    return view('about');
+});
+
+Route::get('contact', function () {
+    return view('contact');
+});
+/*
 Route::get('/laravel', function () {
     return view('welcome');
 });
@@ -41,9 +53,9 @@ Route::get('post/{id}/comment/{comment}'
         ' , comment id : '.$comment_id;
 });
 
-/*Route::get('product/{id}',function($id){
+Route::get('product/{id}',function($id){
     return 'product id : '.$id;
-})->name('product');*/
+})->name('product');
 
 Route::get('product/{id?}',function(){
     return '111111';
@@ -79,7 +91,7 @@ Route::prefix('admin')->group(function(){
         return 'admin/reset';
     });
 });
-
+*/
 /*Route::get('admin/home','UsersController@reset');
 Route::get('admin/profile','UsersController@reset');
 Route::get('admin/reset','UsersController@reset');*/

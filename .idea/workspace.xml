@@ -1,7 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7c82340-d87d-41e4-8f90-bc445b87b74a" name="Default Changelist" comment="" />
+    <list default="true" id="b7c82340-d87d-41e4-8f90-bc445b87b74a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_02_25_130957_create_post_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_02_25_131159_create_category_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_02_25_131729_add_category_to_post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_02_25_132140_rename_table_category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_02_25_132304_rename_category_id_post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/css/flex-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/css/owl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/css/templatemo-sixteen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/flexslider-icon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/flexslider-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/flexslider-icon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/flexslider-icon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/about-heading.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/client-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/contact-heading.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/feature-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/more-info.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/product_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/product_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/product_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/product_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/product_05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/product_06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/products-heading.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/services-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/slide_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/slide_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/slide_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/team_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/team_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/team_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/team_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/team_05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/team_06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/accordions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/isotope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/owl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/slick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/products.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mysite.site.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mysite.site.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +91,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -102,24 +184,33 @@
       <path value="$PROJECT_DIR$/vendor/symfony/debug" />
       <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
       <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
     </include_path>
   </component>
   <component name="ProjectId" id="1YCYmH6GOcXtwHSSb0B6xD3wdhR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\IUGaza\01-second-2019-2020\mysite.site\public" />
       <recent name="I:\IUGaza\01-second-2019-2020\mysite.site\resources\views" />
     </key>
   </component>
@@ -156,11 +247,17 @@
       <workItem from="1582456101500" duration="2478000" />
       <workItem from="1582459647894" duration="3028000" />
       <workItem from="1582528344071" duration="738000" />
+      <workItem from="1582627099445" duration="2486000" />
+      <workItem from="1582633223445" duration="2276000" />
+      <workItem from="1582698460840" duration="595000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="0" key="SettingsEditor" timestamp="1582456229562">
